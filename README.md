@@ -1,17 +1,22 @@
 ## Hi there 👋
 
-I'm Panagiotis Fasoulidis from Greece!
-MSc Student in AI & NLP at NKUA currently working on: LLMs, privacy-aware NLP systems and AI governance research.
+I'm Panagiotis Fasoulidis from Greece 🇬🇷  
+MSc Student in Artificial Intelligence & Natural Language Processing at NKUA,  
+currently working on Large Language Models (LLMs), privacy-aware NLP systems, and AI governance research focused on building responsible and trustworthy AI solutions.
 
 ---
 
-## 🔧 Languages & Tools I use:
+## 🔧 Languages & Tools
+
+<sub><i>A curated selection of technologies I actively work with — continuously expanding.</i></sub>
+
+<br/>
 
 <p>
 
   <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
+
   <!-- NLP / LLM -->
   <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tokenizers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -36,4 +41,10 @@ MSc Student in AI & NLP at NKUA currently working on: LLMs, privacy-aware NLP sy
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
+</p>
+
+<br/>
+
+<p align="center">
+  <b>...and many more tools continuously integrated into my AI & NLP workflow.</b>
 </p>
