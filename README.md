@@ -8,7 +8,7 @@ currently working on Large Language Models (LLMs), privacy-aware NLP systems, an
 
 ## 🛠 Technologies I Build With
 
-<sub><i>A curated selection of technologies I actively work with - continuously expanding.</i></sub>
+A curated selection of technologies I actively use in research and production — continuously expanding.
 
 <br/>
 
