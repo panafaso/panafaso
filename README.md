@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm an AI & NLP Specialist from Greece 🇬🇷  
-MSc Student in AI & NLP at NKUA  
+I'm Panagiotis Fasoulidis from Greece!
+MSc Student in AI & NLP at NKUA currently working on: LLMs, privacy-aware NLP systems and AI governance research.
 
 ---
 
