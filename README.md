@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Panagiotis Fasoulidis from Greece 🇬🇷  
-MSc Student in Artificial Intelligence & Natural Language Processing at NKUA,  
+MSc Graduate in Artificial Intelligence & Natural Language Processing at NKUA,  
 currently working on Large Language Models (LLMs), privacy-aware NLP systems, and AI governance research focused on building responsible and trustworthy AI solutions.
 
 ---
