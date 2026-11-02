@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 I'm Panagiotis Fasoulidis from Greece 🇬🇷  
-BSc in Linguistics
-Bachelor of Laws (LL.B)
+BSc in Linguistics,
+Bachelor of Laws (LL.B),
 MSc Graduate in Artificial Intelligence & Natural Language Processing at NKUA,  
-MSc Student in Advanced Cybersecurity Technologies and Governance at University of Piraeus
+MSc Student in Advanced Cybersecurity Technologies and Governance at University of Piraeus,
 LLM in European Law
 
 ---
